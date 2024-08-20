@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tank_wiki/static/css/main.a015f1d9.css",
-    "main.js": "/tank_wiki/static/js/main.63a28c41.js",
+    "main.js": "/tank_wiki/static/js/main.3633714a.js",
     "static/js/453.2006ad94.chunk.js": "/tank_wiki/static/js/453.2006ad94.chunk.js",
     "index.html": "/tank_wiki/index.html",
     "main.a015f1d9.css.map": "/tank_wiki/static/css/main.a015f1d9.css.map",
-    "main.63a28c41.js.map": "/tank_wiki/static/js/main.63a28c41.js.map",
+    "main.3633714a.js.map": "/tank_wiki/static/js/main.3633714a.js.map",
     "453.2006ad94.chunk.js.map": "/tank_wiki/static/js/453.2006ad94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a015f1d9.css",
-    "static/js/main.63a28c41.js"
+    "static/js/main.3633714a.js"
   ]
 }
